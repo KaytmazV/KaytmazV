@@ -43,6 +43,6 @@
 
 ###
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/KaytmazV/gitartwork)
+<img src="https://raw.githubusercontent.com/KaytmazV/KaytmazV/output/snake.svg" alt="Snake animation" />
 
-###  
+###
