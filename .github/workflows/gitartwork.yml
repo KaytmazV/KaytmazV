@@ -10,7 +10,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: KaytmazV
             # Text on contribution graph 
             text: KAYTMAZV
        - uses: jasineri/simple-push-action@v1
