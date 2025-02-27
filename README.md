@@ -2,13 +2,8 @@
 
 ###
 
-<p align="Center">My name is Volkan, and I'm a  JAVA Padawan, from the planet GitHub!</p>
+<p align="Center"> 🪐 My name is Volkan, and I'm a Java Padawan, from the planet GitHub! 🪐 </p>
 
-###
-
-<h2 align="Center">About me</h2>
-
-###
 
 <p align="Center">✨ Creating bugs since: "Since I first opened Eclipse and started battling exceptions."<br>📚 Currently learning: "Diving deeper into Java and exploring more advanced techniques."<br>🎯 Goals: "Mastering Spring Boot and using microservices architecture to build scalable projects. Also, I aim to stay up to date with the latest Java technologies and lead larger projects in the future."<br>🎲 Fun fact: "I once tried to refactor code, but instead created a time loop. Still fixing it."</p>
 
