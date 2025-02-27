@@ -11,13 +11,6 @@
 ###
 
 <p align="left">✨ Creating bugs since: "Since I first opened Eclipse and started battling exceptions."<br>📚 Currently learning: "Diving deeper into Java and exploring more advanced techniques."<br>🎯 Goals: "Mastering Spring Boot and using microservices architecture to build scalable projects. Also, I aim to stay up to date with the latest Java technologies and lead larger projects in the future."<br>🎲 Fun fact: "I once tried to refactor code, but instead created a time loop. Still fixing it."</p>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaytmazV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaytmazV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -25,6 +18,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaytmazV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaytmazV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"  />
@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KaytmazV/KaytmazV/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/KaytmazV/KaytmazV/output/snake.svg" alt="Snake animation" />
 
 ###
