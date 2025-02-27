@@ -1,4 +1,4 @@
-<h1 align="Center">⚡Mae-Govannen!⚡</h1>
+<h1 align="Center">⚡Hello There!⚡</h1>
 
 ###
 
@@ -61,7 +61,7 @@
 <br>
 
 
-<p align="Center"> 🪐 May the Force be with us all 🪐 </p>
+<h1 align="Center"> 🪐 May the Force be with us all! 🪐 </h1>
 
 
 
