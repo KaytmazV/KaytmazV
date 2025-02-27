@@ -56,8 +56,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="75" alt="apache logo"  />
 </div>
 
-###
 
-![Snake animation](https://raw.githubusercontent.com/kaytmazv/kaytmazv/output/github-contribution-grid-snake-dark.svg)
-
-###
