@@ -1,14 +1,12 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
+  schedule: # Execute every 12 hours
+    - cron: "* */12 * * *"  # 12 saatte bir çalışacak şekilde ayarlanmış
+  workflow_dispatch:  # Manuel tetikleme
   push:
     branches:
-    - master
+      - main  # Ana dalınızın adı neyse, onu kullanın (master yerine main olabilir)
 
 jobs:
   generate:
@@ -18,17 +16,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.KaytmazV }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}  # GitHub kullanıcı adınız otomatik alınıyor
+          outputs: dist/snake.svg?palette=github-dark  # Çıktı dosyasını buraya kaydediyoruz
 
-
-      - name: push snake.svg to the output branch
+      - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: gh-pages  # Burada çıktı dosyasının gönderileceği dalı belirliyoruz (örneğin gh-pages)
+          build_dir: dist  # Çıktıların bulunduğu dizin
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token'ı, erişim izni için gereklidir
