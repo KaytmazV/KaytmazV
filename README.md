@@ -58,6 +58,6 @@
 
 ###
 
- <img src="https://raw.githubusercontent.com/KaytmazV/KaytmazV/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/kaytmazv/kaytmazv/output/github-contribution-grid-snake-dark.svg)
 
 ###
