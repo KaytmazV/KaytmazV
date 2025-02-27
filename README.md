@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Volkan, and I'm a Padawan JAVA, from the planet GitHub!</p>
+<p align="left">My name is Volkan, and I'm a  JAVA Padawan, from the planet GitHub!</p>
 
 ###
 
